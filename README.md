@@ -14,7 +14,7 @@ Il utilise des structures de données pour représenter les sommets et les arêt
 - **`constante.h`** : Définit des constantes globales, comme `MAX_SOMMETS`.
 - **`main.c`** : Point d'entrée du programme. Gère la construction du graphe, l'exécution de l'algorithme de flot maximum, et l'affichage des résultats.
 - **`data/`** : Contient des fichiers de données au format DIMACS pour tester le programme
-- **`.vscode/settings.json`** : Configuration pour l'éditeur Visual Studio Code.
+- **`Raport_du_projet.pdf`** : Le travail dérigé qui élabore les étapes critiques sur ce projet.
 - **`README.md`** : Ce fichier, décrivant le projet et son utilisation.
 
 ## Compilation
